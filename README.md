@@ -10,7 +10,7 @@ Overall, this application is a useful tool for students, teachers, or anyone els
 
 1.  Clone the repository to your local machine : 
 
-    git clone https://github.com/Om-Gujarathi/Attendance-System-Flutter.git
+    git clone https://github.com/SanskarG83/Hajeri---The-Smart-Attendance
     
 2.  Navigate to the project directory :
 
